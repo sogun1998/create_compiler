@@ -1,0 +1,11 @@
+Program Example5; (* Factorial *)
+   
+Var n : char;
+    i : string;
+    x:integer;
+
+Begin
+    n:='a';
+    i:='dsfsd fsdf';
+    do while do while x=1 do x:=2;
+End. (* Factorial *)
